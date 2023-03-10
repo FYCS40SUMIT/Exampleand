@@ -1,1 +1,9 @@
-# Exampleand
+[alarms.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941405/alarms.txt)
+[calC.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941406/calC.txt)
+[camera.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941407/camera.txt)
+[gesture.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941408/gesture.txt)
+[images1.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941409/images1.txt)
+[imageSwitcher.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941410/imageSwitcher.txt)
+[menu.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941411/menu.txt)
+[SERVICE.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941412/SERVICE.txt)
+[sharedPref.txt](https://github.com/FYCS40SUMIT/Exampleand/files/10941413/sharedPref.txt)
